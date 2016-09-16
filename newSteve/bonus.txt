@@ -1,0 +1,8 @@
+1. We have a “whoisyourdaddy” command which can make you become a super hero!(add 1000 atk  and 1000 def)
+
+2. WASD control:
+	We use QWEASDZC for nw,no,ne,we,so,ea,sw and se. f is attack now. u is using 	potion, esc for quit, r for restart, n for whoisyourdaddy.
+
+3. save and load game
+        input save to create saved file.
+        load to load the saved file.
